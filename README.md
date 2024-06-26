@@ -1,6 +1,10 @@
 # inventario-loza-fotos
 Fotos del inventario de loza
 
+INVENTARIO
+
+[![inventario-loza.jpg](https://i.postimg.cc/mrHWLsTq/inventario-loza.jpg)](https://postimg.cc/jWtFcBwQ)
+
 1 OJO DE HURACAN PEQUEÑO (50 PZ)
 
 [![1.jpg](https://i.postimg.cc/BnCP6Tb2/1.jpg)](https://postimg.cc/bZswV2Qv)
